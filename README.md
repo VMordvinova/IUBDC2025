@@ -5,3 +5,7 @@
 ```
 pip install rasa
 ```
+### Initializing a chat session
+```
+rasa shell
+```
